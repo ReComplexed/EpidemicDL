@@ -2,7 +2,7 @@
 Downloader for all Epidemic Sound Titles
 
 This Zsh Script can be used to Download Infinite 128 kb/s MP3 Files of Epidemic Sound Titles, with stems, without a limit.
-### NOTE: You can still get copyright striked if you don't pay for a license  for all the channels where you use the Music at epidemicsound.com. This is for personal use only.
+### NOTE: You can still get copyright striked if you don't pay for a license  for all the channels where you use the Music at epidemicsound.com. This is for educational purpose only.
 
 The Android Version only has some slight changes so that it will run on Termux without issues.
 
